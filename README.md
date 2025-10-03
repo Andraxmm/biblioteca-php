@@ -82,12 +82,17 @@ htdocs/
 ```
 ---
 ## 📸 Capturas
+
+
 <p align="center">
-  <img src="./imagenes/Login.png" width="600" />
-  <img src="./imagenes/InicioBiblio.png" width="600" />
-  <img src="./imagenes/PanelAdmin.png" width="600" />
-  <img src="./imagenes/NuevoLibro.png" width="600" />
+  <img src="./imagenes/Login.png" width="300" />
+  <img src="./imagenes/InicioBiblio.png" width="300" />
 </p>
+<p align="center">
+  <img src="./imagenes/PanelAdmin.png" width="300" />
+  <img src="./imagenes/NuevoLibro.png" width="300" />
+</p>
+
 --- 
 
 ## ✨ Funcionalidades
