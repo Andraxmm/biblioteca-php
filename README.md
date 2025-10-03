@@ -1,7 +1,6 @@
 # 📚 Biblioteca PHP
 
-Proyecto de Fin de Grado — Aplicación web de gestión de una biblioteca desarrollada **PHP** con patrón MVC, utilizando **MySQL** como base de datos y ejecutado en entorno local con **XAMPP**.  
-La aplicación permite gestionar una biblioteca personal, con registro de usuarios, administración de libros y funcionalidades básicas de CRUD.
+Proyecto de Fin de Grado — Aplicación web de gestión de una biblioteca 
 ---
 
 ## 🚀 Tecnologías utilizadas
