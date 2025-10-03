@@ -82,10 +82,12 @@ htdocs/
 ```
 ---
 ## 📸 Capturas
-![Login](./htdocs/imagenes/Login.png)
-![Pantalla de inicio](./htdocs/imagenes/InicioBiblio.png)
-![Panel de administración](./htdocs/imagenes/PanelAdmin.png)
-![Añadir libro](./htdocs/imagenes/NuevoLibro.png)
+<p align="center">
+  <img src="./imagenes/Login.png" width="600" />
+  <img src="./imagenes/InicioBiblio.png" width="600" />
+  <img src="./imagenes/PanelAdmin.png" width="600" />
+  <img src="./imagenes/NuevoLibro.png" width="600" />
+</p>
 --- 
 
 ## ✨ Funcionalidades
